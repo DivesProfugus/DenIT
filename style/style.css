@@ -7,6 +7,15 @@ body{
     text-align: center;
 }
 
+.container{
+    max-width: 100%;
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.menu{
+    text-align: center;
+}
 .navigate {
     font-size: 18px;
     text-transform: uppercase;
@@ -21,3 +30,14 @@ body{
     transition: color 0.2ms linear;
 }
 
+.nav_link:hover {
+    color: #16a084b3;
+    text-decoration: underline;
+}
+
+.text{
+    text-align: center;
+    background-color: rgb(217, 217, 217);
+    margin: auto;
+    max-width: 1280px;
+}
