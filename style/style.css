@@ -82,3 +82,14 @@ body{
     font-size: 12px;
     font-weight: bolder;
 }
+
+
+.footer_link {
+    margin-right: 50px;
+    font-size: 16px;
+    color: #535353;
+    text-decoration: none;
+    font-weight: 700;
+    letter-spacing: 3px;
+    transition: color 0.2ms linear;
+}
