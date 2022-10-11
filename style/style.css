@@ -85,6 +85,8 @@ body{
 .footer {
     max-width: 1280px;
     margin: 30px;
+    display: inline-block;
+    align-items: center;
     
 }
 
@@ -94,5 +96,5 @@ body{
     color: #373737;
     text-decoration: none;
     letter-spacing: 3px;
-
+    
 }
